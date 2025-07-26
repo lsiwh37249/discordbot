@@ -24,7 +24,7 @@ pdm venv activate
 
 ### 코드 실행 
 ```bash
-python src/discordbot/app.py
+python src/discordbot/discord_bot_back.py
 ```
 
 ### 📌 Discord 출석체크봇
