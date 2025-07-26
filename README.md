@@ -18,6 +18,7 @@ export PATH="$HOME/.local/bin:$PATH"
 
 ### 가상환경 생성 및 활성화
 ```bash
+pdm use python3.11
 pdm venv activate
 ```
 
